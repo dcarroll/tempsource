@@ -82,7 +82,7 @@
     <fields>
         <fullName>Pattern__c</fullName>
         <externalId>false</externalId>
-        <label>Invocation Pattern Remote</label>
+        <label>Invocation Pattern Foreign</label>
         <length>200</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
