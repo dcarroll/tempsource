@@ -82,7 +82,7 @@
     <fields>
         <fullName>Pattern__c</fullName>
         <externalId>false</externalId>
-        <label>Invocation Pattern Foreign</label>
+        <label>Invocation Pattern FTW</label>
         <length>200</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -92,7 +92,7 @@
     <fields>
         <fullName>Sample_Utterance__c</fullName>
         <externalId>false</externalId>
-        <label>Sample Utterance</label>
+        <label>Sample Utterance FTW</label>
         <length>100</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
